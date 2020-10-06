@@ -1,8 +1,8 @@
-#Livewire Register And Login Form And CRUD Operation
+# Livewire Register And Login Form And CRUD Operation
 
-#Laravel v8.0 and Livewire V2.0
+## Laravel v8.0 and Livewire V2.0
 
-#Steps for Installation
+### Steps for Installation
 
 1. git clone git@github.com:misusonu18/Livewire-Register-Login-CRUD-.git
 2. composer install
